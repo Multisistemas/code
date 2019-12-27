@@ -1,3 +1,4 @@
 
 *.swp
 simplerisk/includes/config.php
+simplerisk/includes/csrf-magic/csrf-secret.php
